@@ -1,0 +1,4 @@
+Contact: kontakt@the-morpheus.de
+Expires: Sun, 1 Jan 2023 00:00 +0200
+Preferred-Languages: en, de
+Canonical: https://www.the-morpheus.de/.well-known/security.txt
